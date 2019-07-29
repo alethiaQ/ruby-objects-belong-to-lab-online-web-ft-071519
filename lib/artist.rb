@@ -5,5 +5,3 @@ class Artist
     @name = name
   end
 end
-
-adele = Artist.new("Adele")
