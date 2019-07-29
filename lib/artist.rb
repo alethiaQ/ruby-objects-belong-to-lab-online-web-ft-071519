@@ -7,6 +7,6 @@ class Artist
 end
 
 adele = Artist.new("Adele")
-hello = Song.new("Hello")
+
 hello.artist = Adele
 hello.artist.name
