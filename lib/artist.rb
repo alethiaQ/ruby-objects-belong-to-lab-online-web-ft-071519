@@ -7,6 +7,3 @@ class Artist
 end
 
 adele = Artist.new("Adele")
-
-hello.artist = Adele
-hello.artist.name
