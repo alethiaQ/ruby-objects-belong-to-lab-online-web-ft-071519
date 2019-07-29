@@ -1,5 +1,5 @@
 class Song
-attr_reader :title, :artist
-  
+attr_reader  :artist
+
 
 end
