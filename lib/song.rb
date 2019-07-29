@@ -5,7 +5,3 @@ attr_reader :title, :artist
   end
 
 end
-hello = Song.new("Hello")
-
-hello.artist = adele
-hello.artist.name
